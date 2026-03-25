@@ -16,7 +16,7 @@ A modern and responsive **startup landing page** built using **Bootstrap 5**. Th
 * ✅ Contact form UI
 * ✅ Footer with social media links
 * ✅ Fully responsive design using Bootstrap Grid
-
+Live demo- https://glistening-unicorn-e5a521.netlify.app/
 ---
 
 ## 🛠️ Tech Stack
